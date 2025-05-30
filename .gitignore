@@ -25,6 +25,9 @@ data/raw/
 data/processed/
 data/embeddings/
 
+# Development chats with AI chatbots
+ai_dev_chats/
+
 # Model files (can be large)
 models/
 *.pkl
